@@ -1,0 +1,131 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Kal-El"
+    },
+    {
+      "id": 3,
+      "name": "Flash",
+      "alterEgo": "Jay Garrick"
+    },
+    {
+      "name": "Bk",
+      "alterEgo": "Bk 5001",
+      "id": 4
+    },
+    {
+      "name": "Laudantium ex exped",
+      "alterEgo": "Neque aut tempor und",
+      "id": 5
+    },
+    {
+      "name": "Aliquip soluta qui f",
+      "alterEgo": "Quo voluptatem enim ",
+      "id": 6
+    },
+    {
+      "name": "Impedit hic aut con",
+      "alterEgo": "Ipsam vitae dicta ea",
+      "id": 7
+    },
+    {
+      "name": "Voluptas quod nisi v",
+      "alterEgo": "Deserunt voluptas re",
+      "id": 8
+    },
+    {
+      "name": "Saepe dolorum qui fu",
+      "alterEgo": "Cumque veritatis con",
+      "id": 9
+    },
+    {
+      "name": "Ipsa cum dolor quis",
+      "alterEgo": "Accusamus fugiat Nam",
+      "id": 10
+    },
+    {
+      "name": "Minus voluptatum dig",
+      "alterEgo": "Placeat iure veniam",
+      "id": 11
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Mitchell Henson"
+    },
+    {
+      "id": 2,
+      "name": "Carroll Walker"
+    },
+    {
+      "id": 3,
+      "name": "Carla Sargent"
+    }
+  ],
+  "users": [
+    {
+      "id": "bk@gmail.com",
+      "channelId": "bk"
+    }
+  ],
+  "channels": [
+    {
+      "id": "bk",
+      "courses": [
+        "React",
+        "Vue",
+        "Angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "#f0f8ff"
+    },
+    {
+      "id": 2,
+      "label": "#faebd7"
+    },
+    {
+      "id": 3,
+      "label": "#00ffff"
+    },
+    {
+      "id": 4,
+      "label": "#7fffd4"
+    },
+    {
+      "id": 5,
+      "label": "#f0ffff"
+    },
+    {
+      "id": 6,
+      "label": "#f5f5dc"
+    },
+    {
+      "id": 7,
+      "label": "#ffe4c4"
+    },
+    {
+      "id": 8,
+      "label": "#000000"
+    },
+    {
+      "id": 9,
+      "label": "#ffebcd"
+    },
+    {
+      "id": 10,
+      "label": "#0000ff"
+    }
+  ]
+}
